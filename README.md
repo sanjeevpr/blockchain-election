@@ -33,15 +33,14 @@ git clone https://github.com/sanjeevpr/blockchain-election.git
 ```sh
 cd blockchain-election
 npm install
-npm run dev
 ```
 
 3. Start Ganache
 4. Configure Metamask Extension
-- Install the Metamask extension in your browser
-- Unlock Metamask
-- Connect metamask to your local Etherum blockchain provided by Ganache.
-- Import an account provided by ganache.
+   - Install the Metamask extension in your browser
+   - Unlock Metamask
+   - Connect metamask to your local Etherum blockchain provided by Ganache.
+   - Import an account provided by ganache.
 
 5. Run the front-end app
 ```sh
